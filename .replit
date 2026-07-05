@@ -23,3 +23,6 @@ timeoutMs = 20000
 
 [userenv.shared]
 COGNEE_SERVICE_URL = "https://tenant-57204bb6-c469-4219-9dad-e9fd150d9c29.aws.cognee.ai"
+
+[nix]
+channel = "stable-25_05"
